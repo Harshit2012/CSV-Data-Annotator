@@ -1,5 +1,6 @@
 # CSV-Data-Annotator
 A tool to annotate CSV data.
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/CSV-Data-Annotator?tab=MIT-1-ov-file#readme)
 ![GitHub Release](https://img.shields.io/github/v/release/harshit2012/CSV-Data-Annotator)
 ![Forks](https://img.shields.io/github/forks/harshit2012/CSV-Data-Annotator)
